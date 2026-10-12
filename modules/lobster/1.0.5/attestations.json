@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/Rahul-Sutariya/lobster/releases/download/lobster-1.0.5/source.json.intoto.jsonl",
+            "integrity": "sha256-JjJE22BREZob07MXvK8S4CrfvNsd5CYPnoW3ZhtPfj4="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/Rahul-Sutariya/lobster/releases/download/lobster-1.0.5/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-hHrbF8/2nqMJByFsC43QFCGpk8y5yTTYzRcv0lXRKd4="
+        },
+        "lobster-1.0.5.tar.gz": {
+            "url": "https://github.com/Rahul-Sutariya/lobster/releases/download/lobster-1.0.5/lobster-1.0.5.tar.gz.intoto.jsonl",
+            "integrity": "sha256-S4OUXUmuhBa8cbvKcEsNzXlPvGKvOSxz9NBxaOqU2/w="
+        }
+    }
+}
